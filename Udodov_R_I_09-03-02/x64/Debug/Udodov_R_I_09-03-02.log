@@ -1,0 +1,17 @@
+﻿  Udodov_R_I_09-03-02.cpp
+C:\Users\user\Desktop\универ\lab4\Udodov_R_I_09-03-02\Udodov_R_I_09-03-02.cpp(25,30): warning C4244: аргумент: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\user\Desktop\универ\lab4\Udodov_R_I_09-03-02\Udodov_R_I_09-03-02.cpp(44,27): warning C4244: +=: преобразование "_Ty" в "float", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\user\Desktop\универ\lab4\Udodov_R_I_09-03-02\Udodov_R_I_09-03-02.cpp(76,35): warning C4244: +=: преобразование "_Ty" в "float", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+  Udodov_R_I_09-03-02.vcxproj -> C:\Users\user\Desktop\универ\lab4\Udodov_R_I_09-03-02\x64\Debug\Udodov_R_I_09-03-02.exe
